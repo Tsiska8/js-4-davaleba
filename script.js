@@ -3,3 +3,4 @@ function colorFunction() {
      
     var y = document.getElementById("color2").style.backgroundColor = "green";
 }
+
